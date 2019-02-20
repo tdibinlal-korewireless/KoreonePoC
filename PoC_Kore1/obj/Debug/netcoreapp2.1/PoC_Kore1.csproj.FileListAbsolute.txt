@@ -1,0 +1,11 @@
+C:\Users\tdibinlal\Workspace\POC\PoC_Kore1\PoC_Kore1\bin\Debug\netcoreapp2.1\PoC_Kore1.deps.json
+C:\Users\tdibinlal\Workspace\POC\PoC_Kore1\PoC_Kore1\bin\Debug\netcoreapp2.1\PoC_Kore1.runtimeconfig.json
+C:\Users\tdibinlal\Workspace\POC\PoC_Kore1\PoC_Kore1\bin\Debug\netcoreapp2.1\PoC_Kore1.runtimeconfig.dev.json
+C:\Users\tdibinlal\Workspace\POC\PoC_Kore1\PoC_Kore1\bin\Debug\netcoreapp2.1\PoC_Kore1.dll
+C:\Users\tdibinlal\Workspace\POC\PoC_Kore1\PoC_Kore1\obj\Debug\netcoreapp2.1\PoC_Kore1.csprojAssemblyReference.cache
+C:\Users\tdibinlal\Workspace\POC\PoC_Kore1\PoC_Kore1\obj\Debug\netcoreapp2.1\PoC_Kore1.csproj.CoreCompileInputs.cache
+C:\Users\tdibinlal\Workspace\POC\PoC_Kore1\PoC_Kore1\obj\Debug\netcoreapp2.1\PoC_Kore1.AssemblyInfoInputs.cache
+C:\Users\tdibinlal\Workspace\POC\PoC_Kore1\PoC_Kore1\obj\Debug\netcoreapp2.1\PoC_Kore1.AssemblyInfo.cs
+C:\Users\tdibinlal\Workspace\POC\PoC_Kore1\PoC_Kore1\bin\Debug\netcoreapp2.1\PoC_Kore1.pdb
+C:\Users\tdibinlal\Workspace\POC\PoC_Kore1\PoC_Kore1\obj\Debug\netcoreapp2.1\PoC_Kore1.dll
+C:\Users\tdibinlal\Workspace\POC\PoC_Kore1\PoC_Kore1\obj\Debug\netcoreapp2.1\PoC_Kore1.pdb
